@@ -1,14 +1,6 @@
 Cordova Background Geolocation
 ===========================================================================
 
-The *most* sophisticated background **location-tracking & geofencing** module with battery-conscious motion-detection intelligence for **iOS** and **Android**.
-
-Also available for [React Native](https://github.com/transistorsoft/react-native-background-geolocation), [NativeScript](https://github.com/transistorsoft/nativescript-background-geolocation-lt) and pure native apps.
-
------------------------------------------------------------------------------
-
-:new: The **[Android plugin](http://www.transistorsoft.com/shop/products/cordova-background-geolocation)** requires [purchasing a license](http://www.transistorsoft.com/shop/products/cordova-background-geolocation).  However, it *will* work for **DEBUG** builds.  It will **not** work with **RELEASE** builds [without purchasing a license](http://www.transistorsoft.com/shop/products/cordova-background-geolocation).
-
 -----------------------------------------------------------------------------
 
 ![Home](https://www.dropbox.com/s/byaayezphkwn36h/home-framed-350.png?dl=1)
